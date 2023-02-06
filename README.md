@@ -1,9 +1,9 @@
-      # Olá eu sou o Kaike!
+# Olá eu sou o Kaike!
 
 - 🔭 Formado em Desenvolvimento de Sistemas (Técnico), SENAI Suiço-Brasileiro; 
 - 🌱 Almejo me tornar um grande programador;
 - 🌆 Meu foco atual é melhorar minhas habilidades em Front-End;
-- 🤔 18 anos;
+- 🤔 17 anos;
 
 ## Status:
 
