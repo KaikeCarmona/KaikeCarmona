@@ -3,7 +3,7 @@
 - 🔭 Formado em Desenvolvimento de Sistemas (Técnico), SENAI Suiço-Brasileiro; 
 - 🌱 Almejo me tornar um grande programador;
 - 🌆 Meu foco atual é melhorar minhas habilidades em Front-End;
-- 🤔 17 anos;
+- 🤔 18 anos;
 
 ## Status:
 
