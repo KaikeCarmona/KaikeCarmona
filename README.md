@@ -1,8 +1,8 @@
 # Olá eu sou o Kaike!
 
-- 🔭 Formado em Desenvolvimento de Sistemas (Técnico), SENAI Suiço-Brasileiro; 
+- 🔭 Formado em Desenvolvimento de Sistemas (Técnico), SENAI Suiço-Brasileiro, e cursando superior em ADS, SENAC nações unidas; 
 - 🌱 Almejo me tornar um grande programador;
-- 🌆 Meu foco atual é melhorar minhas habilidades em Front-End;
+- 🌆 Meu foco atual é ingressar no mercado de trabalho;
 - 🤔 18 anos;
 
 ## Status:
