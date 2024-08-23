@@ -3,7 +3,7 @@
 - 🔭 Formado em Desenvolvimento de Sistemas (Técnico), SENAI Suiço-Brasileiro, e cursando superior em Analise e desenvolvimento de sistemas no Centro universitario Senac; 
 - 🌱 Almejo me tornar um grande programador;
 - 🌆 Meu foco atual é evoluir meus conhecimentos em back-end;
-- 🤔 18 anos;
+- 🤔 19 anos;
 
 ## Status:
 
