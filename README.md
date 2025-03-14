@@ -1,9 +1,11 @@
 # Olá eu sou o Kaike!
 
-- 🔭 Formado em Desenvolvimento de Sistemas (Técnico), SENAI Suiço-Brasileiro, e cursando superior em Analise e desenvolvimento de sistemas no Centro universitario Senac; 
-- 🌱 Almejo me tornar um grande programador;
-- 🌆 Meu foco atual é evoluir meus conhecimentos em back-end;
-- 🤔 19 anos;
+- 🔭 Formado em Desenvolvimento de Sistemas (Técnico) pelo SENAI Suíço-Brasileiro, atualmente cursando Análise e Desenvolvimento de Sistemas no Centro Universitário Senac.
+- 🌱 Objetivo: Me tornar um especialista em tecnologia e desenvolvimento de software.
+- 🌆 Foco atual: Aprofundar e masterizar meus conhecimentos em Python.
+- 💼 Atualmente: Trabalho no Itaú Unibanco, na área de riscos, especificamente no tratamento não padronizado, lidando diariamente com a carteira de investimentos do próprio banco.
+- 🤔 Idade: 19 anos.
+
 
 ## Status:
 
