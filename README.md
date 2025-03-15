@@ -6,7 +6,6 @@
 - 💼 Atualmente: Trabalho no Itaú Unibanco, na área de riscos, especificamente no tratamento não padronizado, lidando diariamente com a carteira de investimentos do próprio banco.
 - 🤔 Idade: 19 anos.
 
-
 ## Status:
 
 <div align="center">
@@ -22,19 +21,36 @@
 
 
 ## Principais Tecnologias:
-  <div style="display:inline_block">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-    <img align="center" alt="CSS"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <img align="center" alt="NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-    <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">  
-  </div>
-  
+<p margin="10" align="start">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="50" height="50"/>
+</p>
 
 
 
+# Experiência de trabalho
+
+**Estagiario em Riscos de mercado** \
+[**Itau Unibanco**](https://www.itau.com/) • Full-time \
+Linguagens & Tecnologias: `Python`, `Excel`, `SqlServer` \
+<br/>
+
+
+**Suporte** \
+[**Expert System**](https://rocketseat.com.br/) • Contract \
+Linguagens & Tecnologias: `SqlServer`, `VBA`\
+<br/>
+
+
+
+**Jovem Aprendiz** \
+[**Azul linhas aerea**](https://nubank.com.br/) • Contract \
+Linguagens & Tecnologias: `Python`, `Pacote OFFICE 365`\
+ <br/>
+<br/>
 
 ## Contatos: 
 
