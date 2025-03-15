@@ -42,3 +42,4 @@
   <a href = "mailto:kkaike371@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaike-carmona-76a05b23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+https://github.com/iuricode/readme-template/blob/main/perfil/exemplo-07.md
